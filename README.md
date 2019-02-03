@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
---Move player left, right, up and down
---If bugs collide with player, game resets
---Once player reaches water the game is won.
+- Move player left, right, up and down
+- If bugs collide with player, game resets
+- Once player reaches water the game is won.
 
 - [Instructions](#instructions)
 - [Contributing](#contributing)
