@@ -6,9 +6,6 @@
 - If bugs collide with player, game resets
 - Once player reaches water the game is won.
 
-- [Instructions](#instructions)
-- [Contributing](#contributing)
-
 ## Acknowledgements
 Udacity, for creating this degree program, and providing me with education and endless support
 Mozilla Developer Network, for so many resources and instructions
